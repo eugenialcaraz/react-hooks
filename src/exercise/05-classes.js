@@ -31,6 +31,7 @@ class Tilt extends React.Component {
     )
   }
 }
+
 function App() {
   return (
     <Tilt>
